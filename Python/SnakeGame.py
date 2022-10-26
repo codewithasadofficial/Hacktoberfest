@@ -8,8 +8,8 @@ score = 0
 
 # screen
 screen = turtle.Screen()
-screen.bgcolor("black")
-screen.title("Snake Game By Atharva")
+screen.bgcolor("blue")
+screen.title("Snake Game By Asad")
 screen.tracer(0)
 
 # Snake
